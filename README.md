@@ -1,6 +1,6 @@
 ### Hi there, I'm JameEnder 👋
 
-Hi, I enjoy frontend and backend webdev, and any kind of coding or programming.
+Hi, I enjoy frontend, backend and any kind of coding or programming.
 
--   🔭 I’m currently working on some webdev related projects
--   🌱 I’m currently learning Svelte, Express & NestJS, Node & MongoDB / Postgresql
+-   🔭 I’m currently working on Arcanya 🧙‍♂️
+-   ✨ I’m currently mastering Rust, Bun & Axum, PostgreSQL and SurrealDB
